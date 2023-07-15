@@ -1,7 +1,7 @@
-n=input()
- 
+n=input() 
+
 print(n[::-1])
 
 if (n[::]==n[::-1]):
-  
-  print("palindrome")
+
+    print("palindrome")
