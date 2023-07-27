@@ -1,0 +1,14 @@
+nums=[2,8,72]
+
+s=""
+for i in nums:
+
+    s=s+str(i)
+  
+  res=[ ]
+    for i in s:
+ 
+       res.append(int(i))
+
+print(res)
+        
